@@ -1,0 +1,238 @@
+/* General Styling */
+body {
+    font-family: 'tommorow', sans-serif;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: #111;
+    color: #ffffff;
+}
+
+/* Navbar */
+.product-nav {
+    align-items: center;
+    width: 97%;
+    background: #222;
+    padding: 10px 20px ;
+    box-shadow: 0 2px 8px rgba(0, 26, 255, 0.562);
+    margin-bottom: -5px;
+    border-radius: 50px;
+}
+
+.product-nav ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.product-nav a {
+    text-decoration: none;
+    color: #0051ff;
+    font-weight: 600;
+    position: relative;
+}
+
+.product-nav a.active::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 3px;
+    background: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+}
+
+h1 {
+    margin: 20px;
+}
+
+/* Categories Layout */
+.categories {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* Category Cards */
+.category-card {
+    width: 200px;
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid #0003b1;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.category-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.view-button {
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.view-button:hover {
+    background-color: #0056b3;
+}
+
+/* Product List Styles */
+.product-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.product-card {
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* --- Mobile & Tablet Responsive --- */
+@media (max-width: 768px) {
+
+    /* Adjust Navbar */
+    .product-nav {
+        padding: 10px;
+    }
+
+    /* Adjust Category Cards Layout */
+    .categories {
+        flex-direction: row;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .category-card {
+        width: 45%;  /* Adjust width to ensure 2 cards per row */
+        margin: 10px;
+        padding: 10px;
+    }
+
+    /* Adjust Button Size */
+    .view-button {
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    /* Smaller Font Sizes for Headers */
+    h1 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 480px) {
+
+    /* Adjust Navbar */
+    .product-nav ul {
+        flex-direction: row;
+        gap: 20px;
+    }
+
+    /* Category Card Adjustments */
+    .category-card {
+        width: 35%;  /* Adjust width to ensure 2 cards per row */
+        margin: 10px 0;
+        padding: 10px;
+    }
+
+    .view-button {
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    /* Adjust Title Size */
+    h1 {
+        font-size: 20px;
+    }
+
+    /* Reduce Padding and Margin for Mobile */
+    body {
+        padding: 5px;
+    }
+}
+/* Footer Styles */
+footer {
+    background-color: #111;
+    color: #fff;
+    padding: 60px 20px 30px;
+  }
+  
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 40px;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .footer-column {
+    flex: 1;
+    min-width: 250px;
+  }
+  
+  .footer-column h3 {
+    margin-bottom: 15px;
+    font-size: 1.4rem;
+    color: #00aaff;
+  }
+  
+  .footer-column a {
+    color: #aaa;
+    text-decoration: none;
+  }
+  
+  .footer-column a:hover {
+    color: #00aaff;
+  }
+  
+  .social-icons {
+    align-items: center;
+    display: auto;
+    gap: 30px;
+    margin-top: 1px;
+  }
+  
+  .social-icons img {
+    width: 28px;
+    height: 28px;
+    transition: transform 0.3s ease;
+    filter: brightness(0) invert(1);
+  }
+  
+  .social-icons img:hover {
+    transform: scale(1.1);
+    filter: brightness(1) saturate(1.2);
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  

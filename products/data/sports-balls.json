@@ -1,0 +1,314 @@
+{
+    "categories": [
+      {
+        "name": "FIFA Licensed Balls",
+        "products": [
+          {
+            "name": "Advanced Match – FIFA PRO Ball",
+            "image": "assets/balls/Advanced Match.jpg",
+            "description": "Top-tier match ball approved by FIFA.",
+            "model": "FIFA-001"
+          },
+          {
+            "name": "Advanced Match – FIFA PRO Ball",
+            "image": "/assets/balls/Advanced Match(2).jpg",
+            "description": "Durable training ball with FIFA certification.",
+            "model": "FIFA-002"
+          },
+          {
+            "name": "AVON Match Ball",
+            "image": "/assets/balls/Avon.jpg",
+            "description": "Affordable replica of official FIFA match ball.",
+            "model": "FIFA-003"
+          },
+          {
+            "name": "AVON Match- FIFA IMS Ball",
+            "image": "/assets/balls/Avon IMS.jpg",
+            "description": "Designed for elite-level performance.",
+            "model": "FIFA-004"
+          },
+          {
+            "name": "AVON Match- FIFA IMS Ball",
+            "image": "/assets/balls/Avon IMS(2).jpg",
+            "description": "FIFA-approved indoor football.",
+            "model": "FIFA-005"
+          },
+          {
+            "name": "AXION Match- FIFA IMS Ball",
+            "image": "/assets/balls/Axion yello.jpg",
+            "description": "Lightweight and safe for youth matches.",
+            "model": "FIFA-006"
+          },
+          {
+            "name": "AXION Match- FIFA IMS Ball",
+            "image": "/assets/balls/Axion green.jpg",
+            "description": "Designed for street and hard surfaces.",
+            "model": "FIFA-007"
+          }
+        ]
+      },
+      {
+        "name": "Smart Seam Bonded",
+        "products": [
+          {
+            "name": "Seamless Pro",
+            "image": "/assets/balls/ssb-pro.jpg",
+            "description": "High-quality seamless match ball.",
+            "model": "SSB-001"
+          },
+          {
+            "name": "Fusion X1",
+            "image": "/assets/balls/fusion-x1.jpg",
+            "description": "Advanced bonded panel construction.",
+            "model": "SSB-002"
+          },
+          {
+            "name": "Aero Bond",
+            "image": "/assets/balls/aero-bond.jpg",
+            "description": "Aerodynamic shape with seamless surface.",
+            "model": "SSB-003"
+          },
+          {
+            "name": "Elite Bond",
+            "image": "/assets/balls/elite-bond.jpg",
+            "description": "Used in club-level competitions.",
+            "model": "SSB-004"
+          },
+          {
+            "name": "Vortex 9",
+            "image": "/assets/balls/vortex-9.jpg",
+            "description": "Bonded technology for maximum control.",
+            "model": "SSB-005"
+          },
+          {
+            "name": "ZeroStitch",
+            "image": "/assets/balls/zerostitch.jpg",
+            "description": "Precision bonded panels, no stitching.",
+            "model": "SSB-006"
+          },
+          {
+            "name": "Pulse Core",
+            "image": "/assets/balls/pulse-core.jpg",
+            "description": "Vibrant design with seamless exterior.",
+            "model": "SSB-007"
+          },
+          {
+            "name": "Fusion Match",
+            "image": "/assets/balls/fusion-match.jpg",
+            "description": "Match-level play with soft touch.",
+            "model": "SSB-008"
+          },
+          {
+            "name": "Control Sphere",
+            "image": "/assets/balls/control-sphere.jpg",
+            "description": "Excellent flight and control.",
+            "model": "SSB-009"
+          }
+        ]
+      },
+      {
+        "name": "Smart Seam Stitched",
+        "products": [
+          {
+            "name": "StitchMaster Pro",
+            "image": "/assets/balls/stitchmaster.jpg",
+            "description": "Premium hybrid stitched ball.",
+            "model": "SSS-001"
+          },
+          {
+            "name": "FusionStitch",
+            "image": "/assets/balls/fusionstitch.jpg",
+            "description": "Stitched seams with bonded layers.",
+            "model": "SSS-002"
+          },
+          {
+            "name": "GripStitch 360",
+            "image": "/assets/balls/gripstitch.jpg",
+            "description": "Designed for better grip and spin.",
+            "model": "SSS-003"
+          },
+          {
+            "name": "Hybrid Max",
+            "image": "/assets/balls/hybrid-max.jpg",
+            "description": "Durable stitched football.",
+            "model": "SSS-004"
+          }
+        ]
+      },
+      {
+        "name": "Hand Sewn",
+        "products": [
+          {
+            "name": "Classic Pro",
+            "image": "/assets/balls/classic-pro.jpg",
+            "description": "Traditional hand-stitched leather ball.",
+            "model": "HS-001"
+          },
+          {
+            "name": "Legacy Match",
+            "image": "/assets/balls/legacy.jpg",
+            "description": "Vintage-inspired performance.",
+            "model": "HS-002"
+          },
+          {
+            "name": "ToughStitch",
+            "image": "/assets/balls/toughstitch.jpg",
+            "description": "Highly durable for extended use.",
+            "model": "HS-003"
+          },
+          {
+            "name": "Heritage Series",
+            "image": "/assets/balls/heritage.jpg",
+            "description": "Old-school design, modern durability.",
+            "model": "HS-004"
+          }
+        ]
+      },
+      {
+        "name": "Machine Sewn",
+        "products": [
+          {
+            "name": "Machine Pro",
+            "image": "/assets/balls/machine-pro.jpg",
+            "description": "Cost-effective training ball.",
+            "model": "MS-001"
+          },
+          {
+            "name": "Auto Stitch 2.0",
+            "image": "/assets/balls/autostitch.jpg",
+            "description": "Machine-stitched with reinforced seams.",
+            "model": "MS-002"
+          },
+          {
+            "name": "SpeedTouch",
+            "image": "/assets/balls/speedtouch.jpg",
+            "description": "Enhanced speed response.",
+            "model": "MS-003"
+          },
+          {
+            "name": "PowerPlay",
+            "image": "/assets/balls/powerplay.jpg",
+            "description": "Great for junior-level training.",
+            "model": "MS-004"
+          }
+        ]
+      },
+      {
+        "name": "Hand Balls",
+        "products": [
+          {
+            "name": "Grip Pro",
+            "image": "/assets/balls/handball-grip.jpg",
+            "description": "Maximum grip for professional handball.",
+            "model": "HB-001"
+          },
+          {
+            "name": "Speed Hand",
+            "image": "/assets/balls/speed-hand.jpg",
+            "description": "Optimized for fast-paced games.",
+            "model": "HB-002"
+          },
+          {
+            "name": "Trainer HB",
+            "image": "/assets/balls/handball-trainer.jpg",
+            "description": "Perfect for handball drills.",
+            "model": "HB-003"
+          },
+          {
+            "name": "Elite Handball",
+            "image": "/assets/balls/elite-handball.jpg",
+            "description": "Elite-level performance grip.",
+            "model": "HB-004"
+          },
+          {
+            "name": "Comfort Touch",
+            "image": "/assets/balls/comfort-touch.jpg",
+            "description": "Soft-touch for beginner training.",
+            "model": "HB-005"
+          },
+          {
+            "name": "Fusion HB",
+            "image": "/assets/balls/fusion-hb.jpg",
+            "description": "Hybrid construction for durability.",
+            "model": "HB-006"
+          }
+        ]
+      },
+      {
+        "name": "Volleyballs",
+        "products": [
+          {
+            "name": "Beach Pro V1",
+            "image": "/assets/balls/beach-v1.jpg",
+            "description": "Perfect for beach tournaments.",
+            "model": "VB-001"
+          },
+          {
+            "name": "Court Master",
+            "image": "/assets/balls/court-master.jpg",
+            "description": "Indoor volleyball, soft PU surface.",
+            "model": "VB-002"
+          },
+          {
+            "name": "AirFlow V3",
+            "image": "/assets/balls/airflow.jpg",
+            "description": "Balanced air distribution system.",
+            "model": "VB-003"
+          }
+        ]
+      },
+      {
+        "name": "Gaelic Balls",
+        "products": [
+          {
+            "name": "Gaelic Pro",
+            "image": "/assets/balls/gaelic-pro.jpg",
+            "description": "Official size and weight for Gaelic games.",
+            "model": "GB-001"
+          },
+          {
+            "name": "Training Gaelic",
+            "image": "/assets/balls/training-gaelic.jpg",
+            "description": "Durable for daily use.",
+            "model": "GB-002"
+          },
+          {
+            "name": "SoftTouch Gaelic",
+            "image": "/assets/balls/softtouch-gaelic.jpg",
+            "description": "Soft feel for younger players.",
+            "model": "GB-003"
+          },
+          {
+            "name": "Heritage Gaelic",
+            "image": "/assets/balls/heritage-gaelic.jpg",
+            "description": "Traditional aesthetic.",
+            "model": "GB-004"
+          }
+        ]
+      },
+      {
+        "name": "Rubberized Balls",
+        "products": [
+          {
+            "name": "Durabounce",
+            "image": "/assets/balls/durabounce.jpg",
+            "description": "Bouncy rubber ball for multiple surfaces.",
+            "model": "RB-001"
+          },
+          {
+            "name": "Grip Rubber",
+            "image": "/assets/balls/grip-rubber.jpg",
+            "description": "Extra grip for outdoor play.",
+            "model": "RB-002"
+          },
+          {
+            "name": "PlaySafe Rubber",
+            "image": "/assets/balls/play-safe.jpg",
+            "description": "Designed for safety and durability.",
+            "model": "RB-003"
+          }
+        ]
+      }
+    ]
+  }
+  
